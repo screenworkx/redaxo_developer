@@ -1,0 +1,12 @@
+version: '2.3.0 alpha1'
+author: Gregor Harlan
+supportpage: www.redaxo.org/de/forum/
+
+requires:
+  addons:
+    modules:
+      min-version: '5.0 alpha1'
+    templates:
+      min-version: '5.0 alpha1'
+    structure:
+      min-version: '5.0 alpha1'
